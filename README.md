@@ -77,24 +77,11 @@ The **Pizza Sales Report** dashboards provide a user-friendly interface and offe
 4. **Interact with Visuals**:
    - The visuals are interactive; you can hover, click, and filter the data to gain deeper insights.
 
-## Contributors
 
-- [Bharath Guntreddi](https://github.com/bharathguntreddi3) - Project Creator and Maintainer
-
-## Feedback and Contributions
-
-We welcome your feedback, suggestions, and contributions to this project. If you have ideas for improvements, find issues, or would like to add new features, please don't hesitate to open an issue or submit a pull request. Your contributions are highly appreciated!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Explore the **Pizza Sales Report** to make informed decisions, optimize your menu offerings, and drive your pizza business to success. Thank you for choosing our tool!
+Explore the **Pizza Sales Report** to make informed decisions, optimize your menu offerings, and drive your pizza business to success.
 
 If you find this project interesting and useful, show your support by starring ⭐ the repository and sharing it with others. Let's revolutionize productivity together!
 
 ## If any necessary commits are required to increase the elegance of this repo! I'm always open for a PR.
 
-## With this signing off..!!, BHARATH GUNTREDDI ..🤞
+## With this signing off..!!, Amit Kumar ..🤞
