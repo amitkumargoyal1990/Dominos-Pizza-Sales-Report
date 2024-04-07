@@ -36,6 +36,16 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 - Data Analysis
 - Data Manipulation
 - Data Visualization
+
+### Getting Started
+1. **Data Analysis with SQL:**
+- The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the sql_sales_analysis.sql of this repository.
+
+2. **Creating Dashboards with Power BI:**
+The Power BI project file pizza_sales_report.pbix contains the interactive dashboards. You can open and customize it with Power BI Desktop.
+
+3. **Access the Dashboard:**
+Open the pizza_sales_report.pbix file with Power BI Desktop to explore the interactive dashboards.
  
 ### Insights
 1. Busiest days and time
@@ -57,7 +67,7 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 # Dashboard Overview
 
 ## Home Page Report Dashboard
-![image](https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/assets/90434295/a70d75dc-4414-4c82-8e65-8747014016e5)
+![image](https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/assets/90434295/5e4304b6-001d-45d2-bcc1-139bad0ba97d)
 
 
 ## Best/Worst Sellers Report Dashboard
