@@ -2,38 +2,58 @@
 
 Welcome to the **Dominos Pizza Sales Report** project, where we leverage SQL for data analysis and Power BI for creating interactive visualizations. This project provides in-depth insights into pizza sales data, including daily and monthly trends, sales by pizza category and size, and identifying top-selling pizzas based on revenue, quantity, and total orders.
 
-## Table of Contents
+## Problem Statement
+We have to analyze the pizza dateset given by our client and help them in finding KPI's, other important insights and convert them into proper visuals so that they can understand easily
+the story behind their data.
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Data Analysis with SQL](#data-analysis-with-sql)
-- [Creating Dashboards with Power BI](#creating-dashboards-with-power-bi)
-- [Dashboard Overview](#dashboard-overview)
-- [How to Use the Dashboard](#how-to-use-the-dashboard)
-- [Contributors](#contributors)
-- [Feedback and Contributions](#feedback-and-contributions)
-- [License](#license)
+### KPI's Requirement
 
-## Features
+Need to analyze key indicators for our pizza sales [data](https://docs.google.com/spreadsheets/d/1h5HixSOKCZBfk3wvVg5IGrTeQazee6ymmpD9szPItcM/edit?usp=sharing) to gain insights into our business performance.
 
-- **Daily and Monthly Trends**: Visualize the total number of pizza orders and sales figures on a daily and monthly basis. Gain insights into when the highest sales occurred.
+- Total Revenue
+- Average Order value
+- Total Pizzas sold
+- Total Orders
+- Average Pizzas per Order
+  
+### Chart's Requirement
+Visualize various aspects of our pizza sales data to gain insights and understand key trends.
+- Daily Trend for Total Orders
+- Monthly Trend for Total Orders
+- Percentage of Sales by Pizza Category
+- Percentage of Sales by Pizza Size
+- Total Pizzas sold by Pizza Category
+- Top 5 Best Seller by Revenue, Total Quantity and Total Orders
+- Bottom 5 Best Seller by Revenue, Total Quantity and Total Orders
 
-- **Pizza Category Analysis**: Analyze sales by pizza category to understand customer preferences and identify the most popular categories.
+### Tools Used
+- Excel
+- My SQL
+- Power BI
 
-- **Pizza Size Analysis**: Examine the distribution of pizza sales by size, enabling you to tailor your menu based on customer choices.
+### Skills
+- Data Cleaning
+- Data Analysis
+- Data Manipulation
+- Data Visualization
+ 
+### Insights
+- Busiest days and time
+   - Orders are highest on weekends
+   - There are maximum orders in months of July and May
+- Sale Performance
+  - Classic Category contributes to maximum sales & total orders
+  - Large size pizza contributes too maximum sales
+- Best Sellers
+   - The Thai Chicken Pizza Contributes to maximum Revenue
+   - The Classic Deluxe Pizza Contributes to maximum Total Quantities
+   - The Classic Deluxe Pizza Contributes to maximum Total Orders
+- Worst Sellers
+   - The Brie Carre Pizza Contributes to minimum Revenue
+   - The Brie Carre Pizza Contributes to minimum Total Quantities
+   - The Brie Carre Pizza Contributes to minimum Total Orders
 
-- **Top-Selling Pizzas**: Discover the top-selling pizzas based on revenue, quantity, and total orders. Use this information to optimize your menu and increase profits.
 
-## Getting Started
-
-1. **Data Analysis with SQL**:
-   - The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the <a href="pizza_sales_analysis.sql">sql_sales_analysis.sql</a> of this repository.
-
-2. **Creating Dashboards with Power BI**:
-   - The Power BI project file <a href="pizza_sales_report.pbix">pizza_sales_report.pbix</a> contains the interactive dashboards. You can open and customize it with Power BI Desktop.
-
-3. **Access the Dashboard**:
-   - Open the `pizza_sales_report.pbix` file with Power BI Desktop to explore the interactive dashboards.
 
 ## Data Analysis with SQL
 
@@ -63,25 +83,8 @@ The **Pizza Sales Report** dashboards provide a user-friendly interface and offe
 ### Best/Worst Sellers Report Dashboard
 <img src="Dashboards/2_Best_worst_Sellers_Report_Dashboard.png">
 
-### How to Use the Dashboard
-
-1. **Open Power BI Desktop**:
-   - Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you haven't already.
-
-2. **Open the Project File**:
-   - Launch Power BI Desktop and open the `pizza_sales_report.pbix` file.
-
-3. **Explore the Dashboards**:
-   - Navigate between the different views by clicking on the tabs on the left side.
-
-4. **Interact with Visuals**:
-   - The visuals are interactive; you can hover, click, and filter the data to gain deeper insights.
-
-
 Explore the **Pizza Sales Report** to make informed decisions, optimize your menu offerings, and drive your pizza business to success.
 
 If you find this project interesting and useful, show your support by starring ⭐ the repository and sharing it with others. Let's revolutionize productivity together!
-
-## If any necessary commits are required to increase the elegance of this repo! I'm always open for a PR.
 
 ## With this signing off..!!, Amit Kumar ..🤞
