@@ -26,26 +26,12 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 - Top 5 Best Seller by Revenue, Total Quantity and Total Orders
 - Bottom 5 Best Seller by Revenue, Total Quantity and Total Orders
 
-### Tools Used
-- Excel
-- Microsoft SQL
-- Power BI
-
-### Skills
-- Data Cleaning
-- Data Analysis
-- Data Manipulation
-- Data Visualization
-
 ### Getting Started
 1. **Data Analysis with SQL:**
-- The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the [sql_sales_analysis.sql] (https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/blob/main/SQLQuery_Dominos_Pizza_Sales.sql) of this repository.
+- The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the [sql_sales_analysis.sql](https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/blob/main/SQLQuery_Dominos_Pizza_Sales.sql) of this repository.
 
 2. **Creating Dashboards with Power BI:**
-The Power BI project file pizza_sales_report.pbix contains the interactive dashboards. You can open and customize it with Power BI Desktop.
-
-3. **Access the Dashboard:**
-Open the pizza_sales_report.pbix file with Power BI Desktop to explore the interactive dashboards.
+The Power BI project file [Dominos_Pizza_Sales.pbix](https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/blob/main/Dominos_Pizza_Sales.pbix) contains the interactive dashboards. You can open and customize it with Power BI Desktop.
  
 ### Insights
 1. Busiest days and time
@@ -72,6 +58,18 @@ Open the pizza_sales_report.pbix file with Power BI Desktop to explore the inter
 
 ## Best/Worst Sellers Report Dashboard
 ![image](https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/assets/90434295/14a944c8-5e60-48ac-a8f3-ea636e6fd1e5)
+
+
+### Tools Used
+- Excel
+- Microsoft SQL
+- Power BI
+
+### Skills
+- Data Cleaning
+- Data Analysis
+- Data Manipulation
+- Data Visualization
 
 
 Explore the **Dominos Pizza Sales Report** to make informed decisions, optimize your menu offerings, and drive your pizza business to success.
