@@ -38,20 +38,20 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 - Data Visualization
  
 ### Insights
-- Busiest days and time
-   - Orders are highest on weekends
-   - There are maximum orders in months of July and May
-- Sale Performance
-  - Classic Category contributes to maximum sales & total orders
-  - Large size pizza contributes too maximum sales
-- Best Sellers
-   - The Thai Chicken Pizza Contributes to maximum Revenue
-   - The Classic Deluxe Pizza Contributes to maximum Total Quantities
-   - The Classic Deluxe Pizza Contributes to maximum Total Orders
-- Worst Sellers
-   - The Brie Carre Pizza Contributes to minimum Revenue
-   - The Brie Carre Pizza Contributes to minimum Total Quantities
-   - The Brie Carre Pizza Contributes to minimum Total Orders
+1. Busiest days and time
+   - Orders are highest on **Sun/Mon**
+   - There are maximum orders in months of **July and May**
+2. Sale Performance
+  - **Classic Category** contributes to maximum sales & total orders
+  - **Large size pizza** contributes too maximum sales
+3. Best Sellers
+   - **The Thai Chicken Pizza** Contributes to maximum Revenue
+   - **The Classic Deluxe Pizza** Contributes to maximum Total Quantities
+   - **The Classic Deluxe Pizza** Contributes to maximum Total Orders
+4. Worst Sellers
+   - **The Brie Carre Pizza** Contributes to minimum Revenue
+   - **The Brie Carre Pizza** Contributes to minimum Total Quantities
+   - **The Brie Carre Pizza** Contributes to minimum Total Orders
 
 
 # Dashboard Overview
@@ -61,7 +61,7 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 
 
 ## Best/Worst Sellers Report Dashboard
-![image](https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/assets/90434295/6595bddc-89fa-4e24-828a-769a9ce6c99b)
+![image](https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/assets/90434295/14a944c8-5e60-48ac-a8f3-ea636e6fd1e5)
 
 
 Explore the **Dominos Pizza Sales Report** to make informed decisions, optimize your menu offerings, and drive your pizza business to success.
