@@ -28,10 +28,10 @@ Visualize various aspects of our pizza sales data to gain insights and understan
 
 ### Getting Started
 1. **Data Analysis with SQL:**
-The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the [sql_sales_analysis.sql](https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/blob/main/SQLQuery_Dominos_Pizza_Sales.sql) of this repository.
+The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the [sql_sales_analysis.sql] of this repository.
 
 2. **Creating Dashboards with Power BI:**
-The Power BI project file [Dominos_Pizza_Sales.pbix](https://github.com/amitkumargoyal1990/SQL_PowerBI_Project-Pizza-Sales-Report/blob/main/Dominos_Pizza_Sales.pbix) contains the interactive dashboards. You can open and customize it with Power BI Desktop.
+The Power BI project file [Dominos_Pizza_Sales.pbix] contains the interactive dashboards. You can open and customize it with Power BI Desktop.
  
 ### Insights
 1. Busiest days and time
